@@ -16,7 +16,7 @@ Variables are easy to understand. They simply **point to values**.
 
 Let's draw a diagram of these variables.
 
-![Variable diagram](../images/variables1.png)
+![](https://raw.githubusercontent.com/shubham8550/python-tutorial/master/images/variables1.png)
 
 We can also change the value of a variable after setting it.
 
