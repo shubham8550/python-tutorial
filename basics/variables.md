@@ -299,6 +299,6 @@ what you are doing. We'll learn more about it later.
   `NoneType object` they mean None.
 
 ***
-
+ 
 If you have trouble with this tutorial please report us.
 
