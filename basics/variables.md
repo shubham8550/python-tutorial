@@ -29,7 +29,7 @@ We can also change the value of a variable after setting it.
 
 So now our diagram looks like this:
 
-![Variable diagram](../images/variables2.png)
+![](https://raw.githubusercontent.com/shubham8550/python-tutorial/master/images/variables2.png)
 
 Setting a variable to another variable gets the value of the other
 variable and sets the first variable to point to that value.
